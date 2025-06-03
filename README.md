@@ -34,9 +34,6 @@ Passwords were evaluated using [The Password Meter](https://www.passwordmeter.co
 - Achieved full score: **100%**
 - Feedback: Balanced composition and good use of varied characters
 
-📷 Screenshot:  
-![Very Strong Password](./Screenshot%202025-06-03%20133729.png)
-
 ---
 
 #### ⚠️ Example 2 – **Very Weak Password (16%)**
@@ -45,9 +42,6 @@ Passwords were evaluated using [The Password Meter](https://www.passwordmeter.co
 - Used only lowercase letters (no diversity)
 - Score: **16%**
 - Feedback: Failed to include uppercase, numbers, or symbols
-
-📷 Screenshot:  
-![Very Weak Password](./Screenshot%202025-06-03%20133755.png)
 
 ---
 
